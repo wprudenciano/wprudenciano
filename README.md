@@ -1,6 +1,8 @@
 
 ### <em>Olá! Sou o Wilton Prudenciano </em>✌
 
+### <em>Sociais</em><br/>
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wilton_prudenciano)
 [![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@dev_prude)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wprudenciano/)
@@ -9,7 +11,7 @@
 
 ![wprudenciano GitHub stats](https://github-readme-stats.vercel.app/api?username=wprudenciano&show_icons=true&theme=dracula)
 
-### <em>Tecnologias de conhecimento</em><br/>
+### <em>Skills</em><br/>
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
